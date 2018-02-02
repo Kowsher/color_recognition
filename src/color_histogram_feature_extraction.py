@@ -1,8 +1,3 @@
-#----------------------------------------------
-#--- Author         : Ahmet Ozlu
-#--- Mail           : ahmetozlu93@gmail.com
-#--- Date           : 31st December 2017 - new year eve :)
-#----------------------------------------------
 
 from PIL import Image
 import os
